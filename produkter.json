@@ -1,0 +1,100 @@
+[
+    {
+        "id": 1,
+        "prodName": "Epiphone Les Paul Standard",
+        "prodDesc": "Elgitarr med kropp av mahogny och AAA-flammigt lönntopp, mahognyhals med greppbräda av rosewood och två ProBucker pickups.",
+        "prodPrice": 6999,
+        "image": "EpiphoneLesPaulStandard.jpg",
+        "huvudKat": 1,
+        "underKat": 1
+    },{
+        "id": 2,
+        "prodName": "Generic Bas",
+        "prodDesc": "Den är utmärkt för de som föredrar ett mindre och lättare instrument, som denna bas är tack vare dess kejsarträkonstruktion. Basen representerar otroligt värde för pengar för basister som ska påbörja sin resa.",
+        "prodPrice": 4999,
+        "image": "elbas.jpg",
+        "huvudKat": 1,
+        "underKat": 1
+    },{    
+        "id": 3,
+        "prodName": "Tillbehör",
+        "prodDesc": "Ett gäng olika grejer som alla gitarr och basälskare behöver",
+        "prodPrice": 2000,
+        "image": "accessories.jpg",
+        "huvudKat": 1,
+        "underKat": 1
+    },{
+        "id": 4,
+        "prodName": "Generic Piano",
+        "prodDesc": "Stort och ståtligt piano.",
+        "prodPrice": 10000,
+        "image": "piano.jpg",
+        "huvudKat": 1,
+        "underKat": 2
+    },{
+        "id": 5,
+        "prodName": "Generic Synth",
+        "prodDesc": "Originalsynthen som förändrade världen.",
+        "prodPrice": 8000,
+        "image": "synth.jpg",
+        "huvudKat": 1,
+        "underKat": 2
+    },{
+        "id": 6,
+        "prodName": "Classic Guitar",
+        "prodDesc": "Klassisk gitarr i det finaste materialet",
+        "prodPrice": 3000,
+        "image": "classicguitar.jpg",
+        "huvudKat": 1,
+        "underKat": 3
+    },{
+        "id": 7,
+        "prodName": "Gitarrsträngar",
+        "prodDesc": "För den hårt spelande behövs nya strängar.",
+        "prodPrice": 500,
+        "image": "guitarstrings.jpg",
+        "huvudKat": 1,
+        "underKat": 3
+    },{
+        "id": 8,
+        "prodName": "Akustisk bas",
+        "prodDesc": "Gillar du bas men inte elbas? Här är en grym akustisk bas.",
+        "prodPrice": 4000,
+        "image": "akustiskbas.jpg",
+        "huvudKat": 1,
+        "underKat": 3
+    },{
+        "id": 9,
+        "prodName": "Dragspel",
+        "prodDesc": "Går inte att bli mer klassisk än såhär.",
+        "prodPrice": 1000,
+        "image": "accordion.jpg",
+        "huvudKat": 1,
+        "underKat": 3
+    },{
+        "id": 10,
+        "prodName": "Trumset",
+        "prodDesc": "Ut med aggressionerna",
+        "prodPrice": 10000,
+        "image": "trumset.jpg",
+        "huvudKat": 1,
+        "underKat": 4
+    },{
+        "id": 11,
+        "prodName": "Digitaltrummor",
+        "prodDesc": "För den tyste.",
+        "prodPrice": 6000,
+        "image": "digitrum.jpg",
+        "huvudKat": 1,
+        "underKat": 4
+    },{
+        "id": 12,
+        "prodName": "Slagverk",
+        "prodDesc": "Går inte att bli mer klassisk än såhär.",
+        "prodPrice": 1000,
+        "image": "slagverk.jpg",
+        "huvudKat": 1,
+        "underKat": 4
+    }
+
+]

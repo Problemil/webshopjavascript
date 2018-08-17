@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "item": "Electric guitar and bass",
+        "huvudkategori": 1
+        
+    }
+    ,{
+        "id": 2,
+        "item": "Piano and synth",
+        "huvudkategori": 1
+    },
+    {
+        "id": 3,
+        "item": "Classical",
+        "huvudkategori": 1
+    },{
+        "id": 4,
+        "item": "Drums",
+        "huvudkategori": 1
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "Guitar and Bass"
+
+    },
+    {
+        "id": 2,
+        "title": "Piano and synth"
+
+    },
+    {
+        "id": 3,
+        "title": "CLassical"
+
+    },
+    {
+        "id": 4,
+        "title": "Drums"
+
+    }
+]
